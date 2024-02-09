@@ -1,7 +1,5 @@
-print("Test")
-#dictionary datatype deos not allow duplicate values
-# it uses key and values method
-#creating a dictionary datatype
+print("this is a test1 file")
+
 personDetails={"name":"Anu",
                "age": 30,
                "Field":"IT"}
